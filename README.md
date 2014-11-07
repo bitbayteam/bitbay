@@ -1,11 +1,11 @@
 BitBay (BAY)
 ===================================
 
-Copyright (c) 2014 BitBay Developers
-Copyright (c) 2014 BlackCoin Developers
-Copyright (c) 2013-2014 NovaCoin Developers
-Copyright (c) 2011-2012 PPCoin Developers
-Copyright (c) 2009-2014 Bitcoin Developers
+- Copyright (c) 2014 BitBay Developers
+- Copyright (c) 2014 BlackCoin Developers
+- Copyright (c) 2013-2014 NovaCoin Developers
+- Copyright (c) 2011-2012 PPCoin Developers
+- Copyright (c) 2009-2014 Bitcoin Developers
 
 What is Bitbay?
 ------------------
